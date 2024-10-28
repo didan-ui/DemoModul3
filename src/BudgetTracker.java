@@ -52,6 +52,7 @@ public class BudgetTracker {
         boolean running = true;
 
         while (running) {
+            System.out.println("--- WELCOME ---");
             System.out.println("\n--- Budget Tracker Menu ---");
             System.out.println("1. Add Income");
             System.out.println("2. Add Expense");
